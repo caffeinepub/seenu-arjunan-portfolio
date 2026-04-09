@@ -1,0 +1,22 @@
+{
+  "overview": "A professional single-page portfolio website for Seenu Arjunan, a Graphic Designer with 6+ years of experience. Dark-themed with bold black and gold branding, featuring a hero section, animated role showcase, work experience timeline, skills grid, education cards, and contact section.",
+  "features": [
+    "Animated hero with rotating job titles",
+    "Vertical work experience timeline (4 positions)",
+    "Skills showcase with gold accent tags",
+    "Education cards",
+    "Contact section with email, phone, and Behance link",
+    "Dark theme with black and gold/yellow branding",
+    "Smooth scroll navigation",
+    "Responsive layout for mobile and desktop"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "graphic-designer",
+    "dark-theme",
+    "single-page",
+    "creative"
+  ],
+  "last_updated": "2026-04-09T06:10:28.457Z"
+}
